@@ -14,7 +14,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
   
-      <div className='lg:ml-80 lg:my-8  lg:mr-72 md:ml-36 md:mr-36 md:my-4 sm:ml-24 sm:my-4 sm:mr-24'>
+      <div className='lg:ml-80 lg:my-8  lg:mr-72 md:ml-36 md:mr-36 md:my-4 sm:ml-24 sm:my-4 sm:mr-24 px-12'>
       <h1 className='text-yellow-700 text-4xl font-bold flex justify-center items-center my-12'>Coffee</h1>
 
       <h1 className='text-xl font-bold md:ml-36 md:mr-36 md:my-4 sm:ml-24 sm:my-4 sm:mr-24'>iCoffee Playbook</h1>
